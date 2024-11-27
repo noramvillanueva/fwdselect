@@ -1,5 +1,5 @@
 # FWDselect: Selecting Variables in Regression Models
-
+[![DOI](https://zenodo.org/badge/98645393.svg)](https://doi.org/10.5281/zenodo.14229826)
 [![CRAN Downloads](https://cranlogs.r-pkg.org/badges/grand-total/FWDselect)](https://cran.r-project.org/package=FWDselect)
 [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/FWDselect)](https://cran.r-project.org/package=FWDselect)
 [![CRAN Downloads](https://cranlogs.r-pkg.org/badges/last-month/FWDselect?color=ff69b4)](https://cran.r-project.org/package=FWDselect)
